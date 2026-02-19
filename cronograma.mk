@@ -3,20 +3,20 @@
  1 			& (Feriado) Sexta-Feira Santa
  2			& O Departamento de Computação, Bacharelado em Inteligência Artificial e Bacharelado em Ciência da Computação                    					
  3 			& Áreas de Atuação, Pesquisa e Extensão
- 4 			& Prova 1
+ 4 			& Prova 1 (24/04/2026)
  5 			& (Feriado) Dia do Trabalhador
  6			& Estrutura da Universidade e Colegiado do Curso
  7			& O Comportamento do Aluno
  8 			& Implicações Éticas, Sociais e Ambientais
- 9 			& Prova 2   
+ 9 			& Prova 2  (29/05/2026) 
  10 		& (Feriado) Corpus Christi 
  11         & Seminários
  12			& Seminários
  13 		& Seminários
- 14 		& Prova 3
+ 14 		& Prova 3 (03/07/2026)
  15 		& Seminários
  16			& Seminários
- 17 		& Prova 4
+ 17 		& Prova 4 (24/07/2026)
  18 		& Exame Especial (31/07/2026)                        			
 
 Metodologia:
@@ -33,6 +33,6 @@ Exame Especial: Os alunos que tiverem pelo menos 75% de frequência (mínimo par
 
 Atividades avaliativas:
 
-- 4 provas no valor de 10 pontos.
+- 4 provas (P1, P2, P3, P4) no valor de 10 pontos.
 
 Nota final = 0.15 * P1 + 0.2 * P2 + 0.2 * P3 + 0.45 * P4
